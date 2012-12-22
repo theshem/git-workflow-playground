@@ -1,7 +1,8 @@
 playground
 ==========
 
-* adding some changes _by_ **owner**.
+* adding some changes _by_ the **owner**.
 * some changes by a contributor.
-* yet another change _by_ **owner**.
+* yet another change _by_ the **owner**.
 * yet another change by a contributor.
+* final change _by_ the **owner**.
